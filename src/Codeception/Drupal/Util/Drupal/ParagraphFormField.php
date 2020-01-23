@@ -1,6 +1,6 @@
 <?php
 
-namespace Codeception\Util\Drupal;
+namespace Codeception\Drupal\Util\Drupal;
 
 /**
  * Class ParagraphFormField.

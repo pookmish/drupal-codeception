@@ -1,6 +1,6 @@
 <?php
 
-namespace Codeception\Drupal;
+namespace Codeception\Drupal\Util;
 
 use Symfony\Component\Process\Process;
 

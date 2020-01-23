@@ -1,6 +1,6 @@
 <?php
 
-namespace Codeception\Util;
+namespace Codeception\Drupal\Util;
 
 /**
  * Class XpathBuilder.

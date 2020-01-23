@@ -5,7 +5,7 @@ namespace Codeception\Drupal;
 use Codeception\Module;
 use Drupal\user\Entity\User;
 use Faker\Factory;
-use Codeception\Drupal\Drush;
+use Codeception\Drupal\Util\Drush;
 
 /**
  * Class DrupalUser.

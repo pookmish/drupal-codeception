@@ -4,9 +4,9 @@ namespace Codeception\Drupal;
 
 use Codeception\Lib\ModuleContainer;
 use Codeception\Module;
-use Codeception\Util\Drupal\FormField;
-use Codeception\Util\Drupal\ParagraphFormField;
-use Codeception\Util\IdentifiableFormFieldInterface;
+use Codeception\Drupal\Util\Drupal\FormField;
+use Codeception\Drupal\Util\Drupal\ParagraphFormField;
+use Codeception\Drupal\Util\IdentifiableFormFieldInterface;
 use Facebook\WebDriver\Remote\RemoteWebDriver;
 
 /**

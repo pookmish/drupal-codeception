@@ -3,7 +3,7 @@
 namespace Codeception\Drupal;
 
 use Codeception\Module;
-use Codeception\Drupal\Drush;
+use Codeception\Drupal\Util\Drush;
 
 /**
  * Class DrupalDrush.
