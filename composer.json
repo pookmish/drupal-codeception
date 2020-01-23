@@ -1,5 +1,5 @@
 {
-    "name": "guncha25/drupal-codeception",
+    "name": "pookmish/drupal-codeception",
     "description": "Codeception toolset for Drupal testing.",
     "type": "package",
     "repositories": [
@@ -17,12 +17,6 @@
         "drupal/core": "^8"
     },
     "license": "GPL-2.0",
-    "authors": [
-        {
-            "name": "Guntis Jakovins",
-            "email": "guntis.jakovins@gmail.com"
-        }
-    ],
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
