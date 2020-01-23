@@ -63,7 +63,7 @@ class DrupalBootstrap extends Module {
     }
     chdir($this->_getConfig('root'));
     $request = Request::createFromGlobals();
-    $autoloader = require $this->_getConfig('root') . '/autoload.php';
+    $autoloader = require 'autoload.php';
     $kernel = DrupalKernel::createFromRequest($request, $autoloader, 'prod');
     try {
       $kernel->boot();
