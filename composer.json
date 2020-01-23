@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "codeception/codeception": "^2.3 || ^3.0",
+        "codeception/codeception": "^4.0",
         "fzaninotto/faker": "^1.8"
     },
     "require-dev": {
@@ -26,7 +26,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "Codeception\\": "src/Codeception"
+            "Codeception\\Drupal\\": "src/Codeception/Module"
         }
     }
 }
