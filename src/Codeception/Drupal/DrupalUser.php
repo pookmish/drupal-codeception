@@ -1,6 +1,6 @@
 <?php
 
-namespace Codeception\Module;
+namespace Codeception\Drupal;
 
 use Codeception\Module;
 use Drupal\user\Entity\User;

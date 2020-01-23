@@ -26,7 +26,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "Codeception\\Drupal\\": "src/Codeception/Module"
+            "Codeception\\Drupal\\": "src/Codeception/Drupal"
         }
     }
 }
